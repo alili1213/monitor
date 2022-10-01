@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 setup(
 	name = "monitor",
-	version = "0.1",
+	version = "0.2",
 	url = 'https://github.com/alili1213/monitor.git',
 	long_description = open('README.md').read(),
 	packages = find_packages(),
